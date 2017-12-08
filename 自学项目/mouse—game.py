@@ -38,3 +38,4 @@ while True:
         screen.blit(plane, playerpos)
         pygame.display.update()
         fpsClock.tick(60)
+    ##########
